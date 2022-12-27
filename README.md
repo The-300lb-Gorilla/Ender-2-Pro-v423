@@ -1,4 +1,4 @@
-# Ender-2-Pro-v423
+# Ende -2 Pro v423 Updated OEM Firmware
 The firmware in this repository only works with the OEM Creality v4.2.3 Motherboard. It must have a STM32F103RET6 CPU. If your Ender 2 Pro has a 2219 Creality Motherboard with a HC32F460KCTA CPU, loading this firmware on this Non-Compatible motherboard can cause damage and/or a short circuit.
 ## Specific Firmware Functionality:
 1. Cleaner Main Information Screen.
