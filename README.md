@@ -17,5 +17,5 @@ Filament Run Out Sensor. (On by Default, but it can be turned off in the Setting
 14. Thermal Runaway Protection Enabled.
 15. No ABL Probe Function is available, and there will not be at this time.
 
-# Sponsorship of this repository: 
+# Sponsorship for this repository: 
 ##  Cash App, using the cashtag: $The300lbGorilla
