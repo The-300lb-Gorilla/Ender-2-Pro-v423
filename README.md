@@ -16,3 +16,6 @@ Filament Run Out Sensor. (On by Default, but it can be turned off in the Setting
 13. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
 14. Thermal Runaway Protection Enabled.
 15. No ABL Probe Function is available, and there will not be at this time.
+
+# Sponsorship of this repository: 
+##  Cash App, using the cashtag: $The300lbGorilla
