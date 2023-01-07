@@ -1,4 +1,4 @@
-# Ende -2 Pro v423 Updated OEM Firmware
+# Ende -2 Pro v423 Updated OEM Firmware.. This firmware is designed to be used with a Stock Hot End at no more than 220c and the Stock Heated bed at no more than 65c. If you change the Hot End out for a Higher temp one, then it is suggested that you attach an external Meanwell Power supply rated at 350watts and 15amps. The OEM PSU is not rated for higher temps and can burn out. You have been warned.
 The firmware in this repository only works with the OEM Creality v4.2.3 Motherboard. It must have a STM32F103RET6 CPU. If your Ender 2 Pro has a 2219 Creality Motherboard with a HC32F460KCTA CPU, loading this firmware on this Non-Compatible motherboard can cause damage and/or a short circuit.
 ## Specific Firmware Functionality:
 1. Cleaner Main Information Screen.
