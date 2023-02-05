@@ -12,7 +12,7 @@ The firmware in this repository only works with the OEM Creality v4.2.3 Motherbo
 9. Long File Names Enabled.
 10. Scrolling of Longer File Names Enabled.
 11. Removal of ABS Preheat, since the Ender 2 Pro cannot print ABS.
-13. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
+13. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c. (You can change these in the settings menu if you want.)
 14. Thermal Runaway Protection Enabled.
 15. No ABL Probe Function is available, and there will not be at this time.
 16. Power Loss Recovery (You can turn off or on in the settings menu)
