@@ -7,7 +7,6 @@ The firmware in this repository only works with the OEM Creality v4.2.3 Motherbo
 4. Cleaner and better labled Menu System.
 5. No automatic timeout and return to main information screen. (Really anoying when you turn away for a second, and it is back on the Main Information Screen, and you have to start again.)
 6. You must manually scroll and click to return to previous menus and to the Main Information Screen.
-Filament Run Out Sensor. (On by Default, but it can be turned off in the Settings Menu.If you do not have a Filament Run Out Sensor, this must be set to Off in the Settings Menu)
 7. LCD Assisted Manual 4 Corner Bed Leveling. (Paper method at 4 corners over bed screws, leveling by raising and lowering with bed adjustment wheels)
 8. (9)Nine Point LCD Assisted Manual Mesh Bed Leveing. (No need for ABL Probe) Paper method, raising and lower the nozzle with the LCD knob at (9) nine points around the bed to create a mesh, just like an ABL Probe, but none of the waiting, wiring, setup, firmware recompiling, and in my opinion, a simpler way to level the bed.
 9. Long File Names Enabled.
@@ -16,6 +15,8 @@ Filament Run Out Sensor. (On by Default, but it can be turned off in the Setting
 13. Single PLA Preheat. Temps are as follows: Hot-End 205c Bed Temp 65c.
 14. Thermal Runaway Protection Enabled.
 15. No ABL Probe Function is available, and there will not be at this time.
+16. Power Loss Recovery (You can turn off or on in the settings menu)
+17. Filament Runout Sensor (If you do not have one, you can turn it off in settings menu)
 
 # Sponsorship for this repository: 
 ##  Cash App, using the cashtag: $The300lbGorilla
